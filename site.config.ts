@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'My Blogs.',
 
   // social usernames (optional)
-  twitter: 'MartainBoBo',
+  twitter: 'HunyuMa6688',
   github: 'Martianing',
   // linkedin: '#',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
